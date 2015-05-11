@@ -126,7 +126,7 @@ Modify config/locales/en.yml. Replace references to StarterKit.
 
 Modify config/application.rb. Replace references to StarterKit.
 
-
+Need to initialize postgres user and db
 
 = Development
 
