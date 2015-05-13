@@ -246,7 +246,8 @@ However, it's a good idea to consider the following steps to make your app produ
 * send syslogs to a central logger that supports searching and filtering
 * use a security service to analyze site for common security holes (XSS, etc.)
 
-
+Use Emberjs with this guide[http://nandovieira.com/setting-up-emberjs-with-rails-ember-cli-edition] and 
+Use emblem (similar slim), need to install ember-cli-emblem[https://github.com/Vestorly/ember-cli-emblem]
 
 
 = Updating
